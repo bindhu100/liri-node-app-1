@@ -8,23 +8,21 @@
 Link to video of Application in Action
 https://drive.google.com/file/d/1JNsSoCgosUmMTzuymsavxH0zzwx3oYMt/view
 
-Challenge
+<h3>Challenge</h3>
 Learning about node.js.
 
-What is it for?
-Behaviour resembles SIRI but through text
+<h3>What does LIRI Do?</h3>
+Resembles SIRI but through Desktop and Text.
 
-Spotify
-<insert song title> and get the data back
+<h3>Function: Spotify</h3>
+<user inserts song title> and this will show the following information
 
-This will show the following information 
-
-Artist
+<h3>Artist</h3>
 name
 A preview link
 The album
 
-Movies
+<h3>Movies</h3>
 <insert movie title>
 
 The following information
@@ -40,7 +38,7 @@ Rotten Tomatoes Rating.
 Rotten Tomatoes URL.
 
 
-Do What It Says
+<h3>Do What It Says</h3>
 do-what-it-says
 
 LIRI will take the text inside of random.txt and then use it to call
