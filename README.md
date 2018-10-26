@@ -18,24 +18,24 @@ Resembles SIRI but through Desktop and Text.
 <user inserts song title> and this will show the following information
 
 <h3>Artist</h3>
-name
-A preview link
-The album
+name</br>
+A preview link</br>
+The album</br>
 
 <h3>Movies</h3>
 <insert movie title>
 
 The following information
 
-Title of the movie.
-Year the movie came out.
-IMDB Rating of the movie.
-Country where the movie was produced.
-Language of the movie.
-Plot of the movie.
-Actors in the movie.
-Rotten Tomatoes Rating.
-Rotten Tomatoes URL.
+Title of the movie.</br>
+Year the movie came out.</br>
+IMDB Rating of the movie.</br>
+Country where the movie was produced.</br>
+Language of the movie.</br>
+Plot of the movie.</br>
+Actors in the movie.</br>
+Rotten Tomatoes Rating.</br>
+Rotten Tomatoes URL.</br>
 
 
 <h3>Do What It Says</h3>
