@@ -22,7 +22,7 @@ var keys = require("./keys.js");
 	break;
 
 	case "do-what-it-says":
-	doit();
+	doWhatIt();
 	break;
 };
 
@@ -82,7 +82,7 @@ function movie(userInput) {
 };
 
 
-function doit() {
+function doWhatIt() {
 	fs.readFile('random.txt', "utf8", function(error, data){
 
 		if (error) {
